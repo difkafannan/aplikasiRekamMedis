@@ -1,4 +1,15 @@
-# rumahsakit
-aplikasi rekam medis PHP template simple sidebar 1.0.1
-untuk tutorialnya bisa dilihat di 
-https://www.youtube.com/playlist?list=PLTagRbmJ8ettXwsd6QJ2D7SO_QV3GSBC8
+# Aplikasi Rekam Medis (UTS Sistem Biomedis)
+
+---
+
+## Anggota Kelompok
+
+| NIM         | Nama Lengkap            | Github                                        |
+| ----------- | ----------------------- | ------------------------------------------    |
+| 32602200055 | Difka Fannansyah        | [@difkafannan](https://github.com/difkafannan)|
+| 32602200049 | Benaya Maula Syafiq     | [@Syafiq1987](https://github.com/Syafiq1987)  |
+
+---
+#Ini Demonya :
+
+
